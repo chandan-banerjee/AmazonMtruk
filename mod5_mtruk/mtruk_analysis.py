@@ -10,3 +10,5 @@ print(data.head())
 # What proportion of the total observations chose to accept the coupon?
 proportion_accepted = data['Y'].mean()
 print(f"Proportion of observations that accepted the coupon: {proportion_accepted:.2f}")
+
+# 
