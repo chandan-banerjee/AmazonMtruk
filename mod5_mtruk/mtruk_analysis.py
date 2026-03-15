@@ -11,4 +11,4 @@ print(data.head())
 proportion_accepted = data['Y'].mean()
 print(f"Proportion of observations that accepted the coupon: {proportion_accepted:.2f}")
 
-# 
+# new changes
