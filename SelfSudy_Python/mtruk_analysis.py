@@ -21,4 +21,4 @@ fraction_of_tot_bar =  portion_bar_acccepsted.shape[0]/ data.query('coupon == "B
 print(f"\nInterms of percentage of bar coupons accepted: {fraction_of_tot_bar:.2%}")
 
 
-# Compare the acceptance rate between those who went to a bar 3 or fewer times a month to those who went more.
+# Compare the acceptance rate between those who went to a bar 3 or fewer times a month to those who went more.Will add more 
