@@ -17,7 +17,6 @@ https://github.com/chandan-banerjee/AmazonMtruk/tree/main/mod5_mtruk/assignment5
 
 1.  During summer time coupon acceptance rate is higher
 2.  Travellers even preferred to travel opposite direction for coffee house/ less costly restaurants
-3.  Less that 20$ Restaurant, coffee house & carry out coupons having 1 day validity were widely accepted
-4.  Less than20$ Restaurant & coffee house coupons having 2hrs validity were widely accepted
-5.  Drivers went in opposite direction to avail their favourite food court to use their coupons
-6.  Coupon Rejection is higer amongst travellers who are NOT heading towards office or home
+3.  Less than 20$ Restaurant, coffee house & carry out/takeaway coupons having 1 day validity were widely accepted
+4.  For 2hrs validation coupons --> Less than20$ Restaurant & coffee house coupons were widely accepted
+5.  Coupon Rejection is higer amongst travellers who are NOT heading towards office or home
