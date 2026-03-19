@@ -11,8 +11,7 @@ https://github.com/chandan-banerjee/AmazonMtruk/tree/main/mod5_mtruk/assignment5
 3.  Travellers prefer Coffee house coupons most followed by Restaurants < 20$
 4.  Bar coupons were mostly used by the travellers who visits more than 3 times a month
 5.  Farming, fishing, or forestry travellers utilised more Bar coupons
-6.  During travel, Lower Salary or paying less for restaurant has very minimal effect on drinking habit. Travellers of all 3 categories utilised   
-Bar coupons almost equally
+6.  During travel, Lower Salary or paying less for restaurant has very minimal effect on drinking habit. Travellers of all 3 categories utilised Bar coupons almost equally
 
 #### My own analysis findings
 
